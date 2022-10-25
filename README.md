@@ -1,0 +1,1 @@
+git@github.com:Adriichu/Ubuntu-Templates-For-Mogenius.git
